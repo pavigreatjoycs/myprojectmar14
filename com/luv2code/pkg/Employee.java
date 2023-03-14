@@ -10,4 +10,8 @@ public class Employee{
     return this.name;
   }
   
+  public String toString(){
+    return "dummy";
+  }
+  
 }
